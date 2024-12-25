@@ -15,6 +15,8 @@ This dataset was taken using scraping from the website [hangtuah.ac.id](https://
 
 
 ### Recap Information
+<img src="./rekap_allrpt.svg" alt="" />
+
 <svg width="800" height="500" viewBox="0 0 799 500" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="799" height="500" fill="white"/>
 <path d="M782 42.6001H56V387H782V42.6001Z" stroke="#545454" stroke-width="2"/>
